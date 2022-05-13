@@ -1,1 +1,1 @@
-# kivy-kivyMD examples
+# Компоненты пользовательского интерфейса KivyMD
